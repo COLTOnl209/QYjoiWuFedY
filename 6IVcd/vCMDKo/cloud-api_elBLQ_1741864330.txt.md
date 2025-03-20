@@ -26,7 +26,6 @@ Examples of unacceptable behavior by participants include:
 *   Publishing others' private information, such as a physical or electronic
     address, without explicit permission.
 *   Conduct which could reasonably be considered inappropriate for the forum in
-    which it occurs.
 
 All Pathway forums and spaces are meant for professional interactions, and any behavior which could reasonably be considered inappropriate in a professional setting is unacceptable.
 
