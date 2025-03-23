@@ -48,4 +48,3 @@ github:
 
   # Disable legacy branch protections. We have manual rulesets which protect trunk
   # and our release branches. See INFRA-26603
-  protected_branches: ~
