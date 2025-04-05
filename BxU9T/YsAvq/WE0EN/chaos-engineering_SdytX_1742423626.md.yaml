@@ -1,3 +1,2 @@
----
 exclude_paths:
   - "chaoscenter/web/src/api/auth/**"
